@@ -1,0 +1,8 @@
+BusinessLayer
+DataLayer
+PresentationLayer
+PresentationLayer.Administrator.Controllers
+PresentationLayer.Administrator.Views
+PresentationLayer.Chef
+PresentationLayer.Waiter.Controllers
+PresentationLayer.Waiter.Views
